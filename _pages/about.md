@@ -17,42 +17,35 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! My name is Haiyu Zhao. I’m a Ph.D. student from College of Computer Science, Sichuan University, China. Currently, I’m a student of Professor [Peng](http://pengxi.me).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My major interests include Image Restoration and Video Restoration. Now, I focus on all-in-one image and video restoration and try to develop light and effective models for all restoration tasks.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp; One paper was accepted by The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).
+- *2024.05*: &nbsp; One paper was accepted by International Conference on Machine Learning (ICML 2024) as Spotlight. Congrats to Yuanbiao!
+- *2023.02*：&nbsp; One paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023).
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [<em>**NeurIPS'24**</em>] [AverNet: All-in-one Video Restoration for Time-varying Unknown Degradations](https://openreview.net/pdf/cd985f5642f31d02e47d062bc783deb7c2d1fa8a.pdf), **Haiyu Zhao**, Lei Tian, Xinyan Xiao, Peng Hu, Yuanbiao Gou, Xi Peng \| <a href="https://github.com/XLearning-SCU/2024-NeurIPS-AverNet"><strong>Code</strong></a>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- [<em>**ICML'24 Spotlight**</em>] [Test-Time Degradation Adaption for Open-Set Image Restoration](https://arxiv.org/abs/2312.02197), Yuanbiao Gou, **Haiyu Zhao**, Boyun Li, Xinyan Xiao, Xi Peng \| <a href="https://github.com/XLearning-SCU/2024-ICML-TAO"><strong>Code</strong></a>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [<em>**CVPR'23**</em>] [Comprehensive and Delicate: An Efficient Transformer for Image Restoration](http://pengxi.me/wp-content/uploads/2023/04/Comprehensive-and-Delicate-An-Efficient-Transformer-for-Image-Restoration.pdf), **Haiyu Zhao**, Yuanbiao Gou, Boyun Li, Dezhong Peng, Jiancheng Lv, Xi Peng \| <a href="https://github.com/XLearning-SCU/2023-CVPR-CODE"><strong>Code</strong></a>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.05* Honored to win silver medal in Sichuan University Programming Competition. 
+- *2021.03* Designed as Meritorious Winner in Mathematical Contest In Modeling.
+- *2020.10* Honored to win silver medal in Sichuan Province Programming Competition.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - now*, Ph.D. student, Sichuan Univeristy, Chengdu. 
+- *2018.09 - 2022.06*, Undergraduate, Sichuan Univeristy, Chengdu.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🙋 Service
+- **Conference Reviewer**: ICLR, NeurIPS, CVPR, AAAI, AISTATS and more.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.12 - 2024.05*, [Baidu](https://home.baidu.com/), Beijing, China.
