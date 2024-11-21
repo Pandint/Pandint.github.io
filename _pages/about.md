@@ -25,7 +25,7 @@ My major interests include Image Restoration and Video Restoration. Now, I focus
 # 🔥 News
 - *2024.09*: &nbsp; One paper was accepted by The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).
 - *2024.05*: &nbsp; One paper was accepted by International Conference on Machine Learning (ICML 2024) as Spotlight. Congrats to Yuanbiao!
-- *2023.02*：&nbsp; One paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023).
+- *2023.02*: &nbsp; One paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023).
 
 # 📝 Publications 
 
