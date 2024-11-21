@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! My name is Haiyu Zhao. I’m a Ph.D. student from College of Computer Science, Sichuan University, China. Currently, I’m a student of Professor [Peng](http://pengxi.me).
 
-My major interests include Image Restoration and Video Restoration. Now, I focus on all-in-one image and video restoration and try to develop light and effective models for all restoration tasks.
+My major interests include Image Restoration and Video Restoration. Now, I focus on all-in-one image and video restoration and try to develop light and effective models for all restoration tasks. For more insights on all-in-one image/video restoration, please refer to our repository: [All-in-one Image/Video Restoration Summary](https://github.com/XLearning-SCU/Awesome-All-In-One-Image-Restoration).
 
 
 # 🔥 News
