@@ -36,6 +36,7 @@ My major interests include Image Restoration and Video Restoration. Now, I focus
 - [<em>**CVPR'23**</em>] [Comprehensive and Delicate: An Efficient Transformer for Image Restoration](http://pengxi.me/wp-content/uploads/2023/04/Comprehensive-and-Delicate-An-Efficient-Transformer-for-Image-Restoration.pdf), **Haiyu Zhao**, Yuanbiao Gou, Boyun Li, Dezhong Peng, Jiancheng Lv, Xi Peng \| <a href="https://github.com/XLearning-SCU/2023-CVPR-CODE"><strong>Code</strong></a>
 
 # 🎖 Honors and Awards
+- *2024.01* [Huawei Scholarship](https://ygb.scu.edu.cn/info/1024/2836.htm). 
 - *2021.05* Honored to win silver medal in Sichuan University Programming Competition. 
 - *2021.03* Designed as Meritorious Winner in Mathematical Contest In Modeling.
 - *2020.10* Honored to win silver medal in Sichuan Province Programming Competition.
