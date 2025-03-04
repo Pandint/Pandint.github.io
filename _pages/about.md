@@ -23,11 +23,14 @@ My major interests include Image Restoration and Video Restoration. Now, I focus
 
 
 # 🔥 News
+- *2025.02*: &nbsp; One paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2025). Congrats to Boyun!
 - *2024.09*: &nbsp; One paper was accepted by The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).
 - *2024.05*: &nbsp; One paper was accepted by International Conference on Machine Learning (ICML 2024) as Spotlight. Congrats to Yuanbiao!
 - *2023.02*: &nbsp; One paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023).
 
 # 📝 Publications 
+
+- [<em>**CVPR'25**</em>] [MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration](https://arxiv.org/abs/2412.20066), Boyun Li, **Haiyu Zhao**, Wenxin Wang, Peng Hu, Yuanbiao Gou, Xi Peng
 
 - [<em>**NeurIPS'24**</em>] [AverNet: All-in-one Video Restoration for Time-varying Unknown Degradations](https://openreview.net/pdf/cd985f5642f31d02e47d062bc783deb7c2d1fa8a.pdf), **Haiyu Zhao**, Lei Tian, Xinyan Xiao, Peng Hu, Yuanbiao Gou, Xi Peng \| <a href="https://github.com/XLearning-SCU/2024-NeurIPS-AverNet"><strong>Code</strong></a>
 
@@ -46,7 +49,7 @@ My major interests include Image Restoration and Video Restoration. Now, I focus
 - *2018.09 - 2022.06*, Undergraduate, Sichuan Univeristy, Chengdu.
 
 # 🙋 Service
-- **Conference Reviewer**: ICLR, NeurIPS, CVPR, AAAI, AISTATS and more.
+- **Conference Reviewer**: ICML, ICLR, NeurIPS, CVPR, AAAI, AISTATS and more.
 
 # 💻 Internships
 - *2023.12 - 2024.05*, [Baidu](https://home.baidu.com/), Beijing, China.
