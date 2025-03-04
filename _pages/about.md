@@ -49,7 +49,7 @@ My major interests include Image Restoration and Video Restoration. Now, I focus
 - *2018.09 - 2022.06*, Undergraduate, Sichuan Univeristy, Chengdu.
 
 # 🙋 Service
-- **Conference Reviewer**: ICML, ICLR, NeurIPS, CVPR, AAAI, AISTATS and more.
+- **Conference Reviewer**: ICML, ICLR, NeurIPS, CVPR, ICCV, AAAI, and more.
 
 # 💻 Internships
 - *2023.12 - 2024.05*, [Baidu](https://home.baidu.com/), Beijing, China.
