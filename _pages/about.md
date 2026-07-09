@@ -32,7 +32,7 @@ My major interests include Image Restoration and Video Restoration. Now, I focus
 # 📝 Publications 
 - [<em>**CVPR'26**</em>] [Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising](https://arxiv.org/abs/2512.21038), Yiwen Shan, **Haiyu Zhao**, Peng Hu, Xi Peng, Yuanbiao Gou* \| <a href="https://github.com/XLearning-SCU/2026-CVPR-NSP"><strong>Code</strong></a>
 
-- [<em>**CVPR'25**</em>] [MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration](https://arxiv.org/abs/2412.20066), Boyun Li, **Haiyu Zhao**, Wenxin Wang, Peng Hu, Yuanbiao Gou, Xi Peng
+- [<em>**CVPR'25**</em>] [MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration](https://arxiv.org/abs/2412.20066), Boyun Li, **Haiyu Zhao**, Wenxin Wang, Peng Hu, Yuanbiao Gou, Xi Peng \| <a href="https://github.com/XLearning-SCU/2025-CVPR-MaIR"><strong>Code</strong></a>
 
 - [<em>**NeurIPS'24**</em>] [AverNet: All-in-one Video Restoration for Time-varying Unknown Degradations](https://openreview.net/pdf/cd985f5642f31d02e47d062bc783deb7c2d1fa8a.pdf), **Haiyu Zhao**, Lei Tian, Xinyan Xiao, Peng Hu, Yuanbiao Gou, Xi Peng \| <a href="https://github.com/XLearning-SCU/2024-NeurIPS-AverNet"><strong>Code</strong></a>
 
