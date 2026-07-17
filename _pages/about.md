@@ -23,6 +23,7 @@ My major interests include Image Restoration and Video Restoration. Now, I focus
 
 
 # 🔥 News
+- *2026.07*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV).
 - *2026.02*: &nbsp; One paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2026). Congrats to Yiwen!
 - *2025.02*: &nbsp; One paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2025). Congrats to Boyun!
 - *2024.09*: &nbsp; One paper was accepted by The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).
@@ -30,6 +31,8 @@ My major interests include Image Restoration and Video Restoration. Now, I focus
 - *2023.02*: &nbsp; One paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023).
 
 # 📝 Publications 
+- [<em>**IJCV'26**</em>] FaverNet: All-in-one Video Restoration via Frequency-Discriminative Conditioning, **Haiyu Zhao**, Yuanbiao Gou, Boyun Li, Xinyan Xiao, Wangmeng Zuo, Xi Peng*
+
 - [<em>**CVPR'26**</em>] [Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising](https://arxiv.org/abs/2512.21038), Yiwen Shan, **Haiyu Zhao**, Peng Hu, Xi Peng, Yuanbiao Gou* \| <a href="https://github.com/XLearning-SCU/2026-CVPR-NSP"><strong>Code</strong></a>
 
 - [<em>**CVPR'25**</em>] [MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration](https://arxiv.org/abs/2412.20066), Boyun Li, **Haiyu Zhao**, Wenxin Wang, Peng Hu, Yuanbiao Gou, Xi Peng \| <a href="https://github.com/XLearning-SCU/2025-CVPR-MaIR"><strong>Code</strong></a>
